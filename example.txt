@@ -1,1 +1,2 @@
 Изменение из master
+Изменение из conflict-branch
